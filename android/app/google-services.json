@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "524468881293",
+    "project_id": "authentication-61e4d",
+    "storage_bucket": "authentication-61e4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524468881293:android:dba602a4e5368b85d51fc4",
+        "android_client_info": {
+          "package_name": "com.example.wathiq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpy_MUCLO7Pa4B4YNYKWy1RvHmVUyXKw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
